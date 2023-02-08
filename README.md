@@ -1,6 +1,14 @@
 <h3 align="center">Olá, seja bem vindo(a) ao meu perfil 🖖</h3>
 Eu me chamo Guilherme Marinho, Bacharel em Ciência da Computação. Atualmente, atuo como Automation Analyst na <a href="https://levva.io/" targer="_blank">levva.io</a>.
+ 
+<h3 align="left">Minhas ultimas atividades:</h3>
+<div>
+  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilhermemarinh&show_icons=true&theme=tokyonight"/>
 
+  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermemarinh&theme=tokyonight&hide_border=false&layout=compact"/>
+</div>
+
+<div>
 <h3 align="left">O que costumo utilizar nos meus testes:</h3>
 <p align="left"> <a href="https://www.cypress.io" target="_blank"> <img src="https://www.cypress.io/images/layouts/navbar-brand.svg" alt="cypress" width="40" height="40"/> 
 <a href="https://appium.io/" target="_blank"> <img src="https://miro.medium.com/max/800/1*XP-oUbM-zMZ-t5cwBbGhLg.png" alt="appium" width="40" height="40"/> 
@@ -11,8 +19,17 @@ Eu me chamo Guilherme Marinho, Bacharel em Ciência da Computação. Atualmente,
 <a href="https://www.selenium.dev/documentation/webdriver/" target="_blank"> <img src="https://miro.medium.com/max/1000/1*INLEOog9LFmr26LLPXxaNw.jpeg" alt="SeleniumWebDriver" width="40" height="40"/> 
 </p>
 
- 
-<h3 align="left">Minhas ultimas atividades:</h3>
-<a href="https://github.com/Guilhermemarinh/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilhermemarinh" />
-</a>
+</div
+
+#### Outras redes:
+
+[<img align="center" alt="samuelfreitas | Instagram" src="https://img.shields.io/badge/Instagram-guilhermemarinho.qa-blue?style=flat-square&logo=instagram" />][instagram]
+[<img align="center" alt="samuelfreitas | LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20Guilherme%20Marinho%20-blue?style=flat-square&logo=linkedin" />][linkedin]
+[<img align="center" alt="samuelfreitas | Email" src="https://img.shields.io/badge/Email-guilhermemarinho.qa@hotmail.com-blue?style=flat-square&logo=hotmail" />][email]
+
+<br />
+<br />
+
+[instagram]: https://www.instagram.com/guilhermemarinho.qa/
+[linkedin]: https://www.linkedin.com/in/guilherme-lima-marinho/
+[email]: mailto:guilhermemarinho.qa@hotmail.com
