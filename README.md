@@ -1,11 +1,6 @@
 <h3 align="center">Olá, seja bem vindo(a) ao meu perfil 🖖</h3>
 Eu me chamo Guilherme Marinho, Bacharel em Ciência da Computação. Atualmente, atuo como Automation Analyst na <a href="https://levva.io/" targer="_blank">levva.io</a>.
 <br>
-<h3 align="left">Minhas ultimas atividades:</h3>
-<div>
-  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilhermemarinh&show_icons=true&theme=tokyonight"/>
-
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermemarinh&theme=tokyonight&hide_border=false&layout=compact"/>
 
 <h3 align="left">O que costumo utilizar nos meus testes:</h3>
 <a href="https://www.cypress.io" target="_blank"> <img src="https://www.cypress.io/images/layouts/navbar-brand.svg" alt="cypress" width="40" height="40"/> 
