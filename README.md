@@ -2,7 +2,10 @@
 Eu me chamo Guilherme Marinho, Bacharel em Ciência da Computação. Atualmente, atuo como Senior Automation Analyst na <a href="https://levva.io/" targer="_blank">levva.io</a>.
 <br>
 
-<h3 align="left">Tecnologias que costumo utilizar nos meus testes:</h3>
+<h3 align="left">Tecnologias e ferramentas que possuo experiência:</h3>
+<h1 align="left">
+  Cypress
+</h1>
 <a href="https://www.cypress.io" target="_blank"> <img src="https://www.cypress.io/images/layouts/navbar-brand.svg" alt="cypress" width="40" height="40"/> 
 <a href="https://appium.io/" target="_blank"> <img src="https://miro.medium.com/max/800/1*XP-oUbM-zMZ-t5cwBbGhLg.png" alt="appium" width="40" height="40"/> 
 <a href="https://jestjs.io/pt-BR/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
