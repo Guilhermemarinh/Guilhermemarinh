@@ -1,5 +1,5 @@
 <h3 align="center">Olá, seja bem vindo(a) ao meu perfil 🖖</h3>
-Eu me chamo Guilherme Marinho, Bacharel em Ciência da Computação. Atualmente, atuo como Senior Automation Analyst na <a href="https://levva.io/" targer="_blank">levva.io</a>.
+Eu me chamo Guilherme Marinho, Bacharel em Ciência da Computação. Atualmente, atuo como Senior Automation Analyst .
 <br>
 
 <h3 align="left">Tecnologias e ferramentas que possuo experiência:</h3>
