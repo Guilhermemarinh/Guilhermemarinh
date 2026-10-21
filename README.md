@@ -16,7 +16,6 @@ Eu me chamo Guilherme Marinho, Bacharel em Ciência da Computação. Atualmente,
 #### Outras redes:
 
 [<img align="center" alt="samuelfreitas | LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20Guilherme%20Marinho%20-blue?style=flat-square&logo=linkedin" />][linkedin]
-[<img align="center" alt="samuelfreitas | Email" src="https://img.shields.io/badge/Email-guilhermemarinho.qa@hotmail.com-blue?style=flat-square&logo=hotmail" />][email]
 
 <br />
 <br />
